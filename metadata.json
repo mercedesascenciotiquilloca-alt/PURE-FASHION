@@ -1,0 +1,6 @@
+{
+  "name": "PURÉ FASHION",
+  "description": "Tienda virtual de ropa y moda moderna, elegante y de calidad en Puno, Perú. Explora prendas exclusivas, consulta tallas y realiza tus pedidos directos por WhatsApp con Mercedes Ascencio Tiquilloca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
